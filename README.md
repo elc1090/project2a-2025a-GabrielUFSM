@@ -8,27 +8,23 @@ https://elc1090.github.io/project2a-2025a-GabrielUFSM/
 
 #### Desenvolvedor(a)
 
-Preencha aqui seu nome
+Gabriel Bisognin Moro - Ciência da computação
 
 
 #### Ambiente de desenvolvimento
 
-Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas, por exemplo:
-- VS Code
-- Outras
+[Vscode](https://code.visualstudio.com/)   
+[VScode Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)   
 
 #### Créditos
 
-Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
-- URL de tutoriais/vídeos consultados
-- Créditos para colegas que colaboraram
-
+https://docs.github.com/pt/rest?apiVersion=2022-11-28
+https://api.github.com/users/elc1090/repos
 
 #### Bastidores
 
 
-Preencha aqui um breve relato dos bastidores da realização deste exercício, com suas impressões.
-
+Reaproveitei muito do código do primeiro trabalho como base. O desafio principal foi implementar a busca de commits específicos de um repositório. Aprender como utilizar com a API do GitHub, foi um processo bem tranquilo. Também fiz um design responsivo bem básico com Bootstrap.
 
 
 ---
